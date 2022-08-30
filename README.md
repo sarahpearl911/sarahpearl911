@@ -4,6 +4,7 @@
 - 📚 I’m a self-taught data enthusiast on a journey to pivot my career into the wonderful world of data!
 - 💜 I'm (mildly) obsessed with SQL, Tableau, and Python.
 - 🌱 Currently, I'm focusing on working on projects where I can advance my SQL and Tableau skills. 
+- 📊 Check out my [Tableau](https://public.tableau.com/app/profile/sarahpearl) portfolio!
 - 📫 If you'd like to connect, you can find me on [LinkedIn](https://www.linkedin.com/in/sarah-pearl/)!
 
 <!---
